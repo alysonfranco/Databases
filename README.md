@@ -8,3 +8,8 @@ This is where I will upload the projects I work on as I progress through my jour
 08/2023
 -
 **CAP3104_GroupProject**: I took the initiative to create the database aspect of our final group project for my Foundations of Human-Computer Interaction course. We were required to upload the requirements, along with adding priority and updating the progress of our user interface assignment.
+
+09/2023
+-
+I am currently working on a Snowflake Data Cloud badge to learn the skills I need to convert plant data I collect over the summer for my current personal project.
+Pending...
